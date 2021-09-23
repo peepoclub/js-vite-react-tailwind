@@ -52,3 +52,7 @@ module.exports = {
 ## TypeScript
 
 Use [this example](https://github.com/wobsoriano/vite-react-tailwind-starter) by wobsoriano
+
+## License
+
+Licensed under [MIT](LICENSE)
